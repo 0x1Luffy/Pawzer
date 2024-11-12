@@ -8,7 +8,9 @@ Pawzer is a simple and efficient Chrome extension that automatically pauses YouT
 - Simple toggle button to enable or disable the extension.
 
 ### Screenshots:
-![Popup UI](path_to_screenshot.png)
+<p align="center">
+  <img src="https://i.ibb.co/BNqWMym/2024-11-12-15-45-13.gif" alt="Popup UI">
+</p>
 
 ### How to Install:
 1. Download the repository or clone it using:
@@ -22,5 +24,40 @@ Pawzer is a simple and efficient Chrome extension that automatically pauses YouT
 ### Contributing:
 
 This is an open-source project, and any contribution is appreciated! If you find a bug, or want to improve the functionality, feel free to fork the repo and submit a pull request.
+
+
+
+# Ignore
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+AutoPause Chrome Extension.
+Automatically pause YouTube videos.
+YouTube video control extension..
+YouTube video pause across tabs.
+YouTube multitasking extension.
+Chrome extension to pause YouTube.
+Pause YouTube in background.
+YouTube video pause app.
+Chrome extension to pause video across tabs.
+AutoPause browser extension.
+Pause YouTube tabs automatically.
  
 
